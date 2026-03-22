@@ -232,10 +232,4 @@ This Privacy Policy may be updated from time to time. When updates are made, the
 If you have questions about this Privacy Policy or your data, contact:
 
 - AfyaBeat Support
-- Email: `privacy@yourdomain.com`
-
-Replace the placeholder email address above with your real support or privacy contact before publishing this policy publicly.
-
-## Short Store Listing Version
-
-AfyaBeat stores the information needed to help users track blood pressure and pulse readings, including account details, profile information, health readings, notes, app settings, analytics, and crash diagnostics. Some data may be stored on-device and some may be stored securely through Firebase services used for authentication, cloud data storage, analytics, and crash reporting.
+- Email: `afyabeat@abiudrn.com`
